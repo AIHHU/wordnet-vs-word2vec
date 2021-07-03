@@ -1,5 +1,6 @@
 # wordnet-vs-word2vec
 实验代码，比较了在常规词下，wordnet与word2vec相似度计算的结果
+该项目的完整文件我将后续上传至我的百度AI studio
 # 文件解释
 embedding.npy 训练得到的词向量。
 
