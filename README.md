@@ -3,7 +3,7 @@
 # 文件解释
 embedding.npy 训练得到的词向量。
 
-text8 word2vec的训练集，这里用于用频度为每次词赋唯一的ID，作为缩影，在embedding中调用该词的词向量，用于计算余弦相似度。
+text8.txt word2vec的训练集，这里用于用频度为每次词赋唯一的ID，作为缩影，在embedding中调用该词的词向量，用于计算余弦相似度。
 
 wordnetVSword2vec.py 实验代码
 # 实验设计
